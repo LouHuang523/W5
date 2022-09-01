@@ -1,0 +1,33 @@
+.function {
+    background-color: #F8F9FA
+}
+
+.function .btn-hover {
+    border-radius: 0;
+    border-left: 4px solid transparent;
+}
+
+.btn:hover {
+    color: #198754;
+}
+
+.btn-hover:hover {
+
+    border-left-color: #198754;
+
+
+}
+
+.user-info {
+    margin-top: 363px;
+}
+
+.user-info {
+    font-size: 14px;
+}
+
+.user-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
